@@ -1,8 +1,8 @@
 a-¿Como actualizo mi repositorio, al estado que esté el repo que hice FORK?
-	-
+	-Se elige la opcion Sync fork y se selecciona update branch para que los cambios del repositorio original queden en el forkeado.
 
 b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA? 	
-	-
+	-No, son dos repositorios forkeados de uno mismo pero no tienen relacion entre si.
 
 c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
 	- No, no podria.

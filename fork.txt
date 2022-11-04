@@ -1,3 +1,7 @@
 BETA: Santiago Iannello / IP: 192.168.1.3 / 11:47
+<<<<<<< HEAD
 
 ALFA: Nahuel Rodrigo Pazos / IP:192.168.1.40 / Hora: 11:49
+=======
+GAMMA: Nahuel Gimenez / IP: 192.168.0.110 / 11:52
+>>>>>>> 324ed060c8e579047af1fe572dc21a1dabb1791e
