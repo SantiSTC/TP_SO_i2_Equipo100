@@ -13,4 +13,15 @@ el fork?
 
 e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
 orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos.
-	-
+
+- 1er Paso: Santiago Iannello = BETA crea el repositorio.
+- 2do Paso Santiago Iannello = BETA creaste fork.txt.
+- 3er Paso: Nahuel Pazos = ALFA y Nahuel Gimenez = GAMMA realizan un fork del repositorio de BETA
+- 4to Paso: Nahuel Pazos = ALFA y Nahuel Gimenez = GAMMA utilizan git clone y agregan su info.
+- 5to Paso: Nahuel Pazos = ALFA y Nahuel Gimenez = GAMMA utilizan git push y agregan su info al repo.
+- 6to Paso: Santiago Iannello = BETA utiliza git clone y agrega nuevoDato.txt .
+- 7mo Paso: Santiago Iannello = BETA utiliza git push para subir nuevoDato.txt .
+- 8vo Paso: Nahuel Pazos = ALFA y Nahuel Gimenez = GAMMA actualizan su fork desde git para tener nuevoDato.txt .
+- 9no Paso: Nahuel Pazos = ALFA y Nahuel Gimenez = GAMMA utilizan git clone y modifican nuevoDato.txt respondiendo sus respectivas preguntas.
+- 10mo Paso: Nahuel Pazos = ALFA y Nahuel Gimenez = GAMMA utilizan git push para subir sus respuestas.
+- 11vo Paso: Santiago Iannello = BETA hace el merge para fusionar los repositorios.
